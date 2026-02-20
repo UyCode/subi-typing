@@ -1,0 +1,8 @@
+name = "subi-typing"
+main = "worker.js" # Or whatever your script is named
+compatibility_date = "2024-01-01"
+
+# THIS IS THE MISSING LINK
+[assets]
+directory = "./"
+binding = "ASSETS"
